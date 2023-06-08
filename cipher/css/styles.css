@@ -35,3 +35,8 @@ img{
 .form{
   line-height: 10px;
 }
+
+h3{
+  color: black;
+  size: 2rem;
+}
